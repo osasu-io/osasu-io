@@ -1,5 +1,30 @@
 # 💫 About Me:
-👋🏾 Hey there, I’m Osasu<br>I'm a full-stack developer passionate about building user-friendly, meaningful digital experiences. My journey started with a love for art and design, and evolved into a deep dive into web development, UX/UI design, and JavaScript fundamentals.<br><br>💻 Focused on full-stack development, front-end development, and APIs<br>🛠️ Learning JavaScript, React, Express, PostgreSQL, and Node.js<br>📍 Based in NYC– proud of my roots, inspired by my community<br><br>🌟 What I’m Working On<br>🧠 Mastering JavaScript (DOM, OOP, Higher-Order Functions, etc.)<br><br>🗺️ Visualizing gentrification in Queens with Leaflet.js & Census Tract Data<br><br>🧪 Experimenting with API integrations (NASA, TMDB, PokéAPI, etc.)<br><br>🧰 Exploring how to combine front-end + tech + storytelling for impact<br>
+👋🏾 Hey there, I’m Osasu<br>
+
+I’m a technologist building secure, measurable digital systems at the intersection of web engineering, marketing technology, SEO, AI, and cybersecurity. My journey started with art and design, evolved through web development and digital marketing, and is now expanding into automation architecture and security focused systems thinking.<br><br>
+
+I’m especially interested in how data flows through websites, APIs, analytics platforms, and automation tools, and how those systems can be structured to be scalable, observable, and secure. Whether it is search optimized content architecture, a webhook driven automation pipeline, or a validation layer protecting data integrity, I approach technology as interconnected systems rather than isolated tools.<br><br>
+
+💻 Focused on web engineering, SEO infrastructure, marketing automation, and secure backend design<br>
+🛠️ Working with JavaScript, APIs, tracking systems, email production workflows, and security labs<br><br>
+
+🔍 Core Areas<br>
+🔎 Technical SEO, structured data, and AI search visibility<br>
+📧 Email template systems from Figma to MJML to production HTML<br>
+🔄 Marketing automation and webhook or API orchestration<br>
+📊 dataLayer design and analytics instrumentation<br>
+🛡️ Secure backend validation, data integrity, and consent aware tracking<br>
+🖥️ IT systems fundamentals including networking, infrastructure concepts, and troubleshooting<br>
+🤖 AI assisted workflows built with verification first design<br><br>
+
+🧪 Currently Exploring<br>
+🌐 Generative Engine Optimization and the impact of AI Overviews on visibility and click behavior<br>
+🏗️ Schema first content architecture and entity driven publishing<br>
+🔁 Lead to automation pipelines with consent aware tracking<br>
+🔐 Secure API design, webhook validation, and payload verification patterns<br>
+🛡️ Cybersecurity labs covering networking, access control, and secure system configuration<br><br>
+
+📍 Based in NYC | Building toward roles in MarTech Engineering, Technical SEO, Marketing Automation, IT Systems Support, and Cybersecurity Engineering<br>
 
 
 ## 🌐 Socials:
