@@ -1,28 +1,32 @@
 # 👋🏾 Hey, I'm Osasu
 
-I'm a technologist transitioning into infrastructure engineering and cybersecurity. My background spans web development and IT support, and I'm now building toward roles in cloud security, platform engineering, and security operations. I approach systems thinking holistically — how things connect, how they fail, and how to make them observable and defensible.
+I'm a technologist moving into infrastructure engineering and cybersecurity, with a growing focus on securing AI infrastructure. My background spans web development and IT support, and I'm building toward roles in cloud security, platform engineering, and security operations. I think about systems holistically: how they connect, how they fail, and how to make them observable and defensible.
 
-I'm currently completing the **TKH Innovation Fellowship 2026** (cybersecurity cohort) and running a self-hosted homelab on Proxmox where I build, break, and monitor things.
+I currently work in IT Support while completing the **TKH Innovation Fellowship 2026** (cybersecurity cohort, graduating September 2026), where I'm in Phase 2 working through cloud networking and AWS VPC design. Alongside the fellowship I run a self-hosted homelab on Proxmox where I build, break, monitor, and now host local AI models.
 
 ---
 
 ## 🔍 Focus Areas
 
-- 🛡️ Security Operations — SIEM, IDS/IPS, alert triage, incident response
-- ☁️ Cloud Security — AWS & Azure architecture, IAM, GuardDuty, Security Hub
-- 🖥️ Linux & Infrastructure — system administration, hardening, scripting
-- 🌐 Networking — OSI model, TCP/IP, subnetting, DNS, packet analysis
-- 🔧 DevSecOps — Docker, Kubernetes, Terraform, CI/CD pipeline security
-- 🤖 Automation — Bash and Python scripting for security and ops workflows
+- 🛡️ **Security Operations:** SIEM, IDS/IPS, alert triage, incident response
+- ☁️ **Cloud Security:** AWS & Azure architecture, IAM, VPC design, GuardDuty, Security Hub
+- 🤖 **AI Infrastructure Security:** self-hosted LLM deployment, hybrid local-to-cloud routing, prompt-injection testing, non-human identity (NHI) and MCP security
+- 🖥️ **Linux & Infrastructure:** system administration, hardening, scripting
+- 🌐 **Networking:** OSI model, TCP/IP, subnetting, CIDR, DNS, packet analysis
+- 🔧 **DevSecOps:** Docker, Kubernetes, Terraform, CI/CD pipeline security
+- ⚙️ **Automation:** Python and Bash scripting for security and ops workflows
 
 ---
 
 ## 🧪 Currently Building
 
-- **SOC Homelab** — Wazuh + Suricata + Zeek + Grafana + TheHive + Shuffle (SOAR) running on Proxmox VMs and LXCs
-- **Detection Engineering** — custom Suricata rules, ATT&CK-mapped alerts, Atomic Red Team attack simulations
-- **Cloud Security Projects** — secure auth architecture deployed on AWS and Azure with IAM least privilege, WAF, and GuardDuty
-- **OverTheWire Bandit** — grinding Linux command fluency levels 0–20
+**SOC & detection:**
+- SOC homelab: Wazuh + Suricata + Zeek + Grafana + TheHive + Shuffle (SOAR) on Proxmox VMs and LXCs
+- Detection engineering: custom Suricata rules, ATT&CK-mapped alerts, Atomic Red Team simulations
+- Cloud security: secure auth architecture on AWS and Azure with IAM least privilege, WAF, and GuardDuty
+
+**Foundations:**
+- OverTheWire Bandit for Linux command fluency, plus Python through hands-on scripting projects
 
 ---
 
@@ -31,12 +35,15 @@ I'm currently completing the **TKH Innovation Fellowship 2026** (cybersecurity c
 | Layer | Tools |
 |---|---|
 | Virtualization | Proxmox VE |
-| VMs / LXCs | Kali Linux, Ubuntu Server, Docker LXC, Jellyfin LXC |
-| SIEM / Monitoring | Wazuh, Splunk, Grafana + Prometheus |
+| VMs / LXCs | Kali Linux, Ubuntu Server, Docker LXC |
+| Local AI / ML | Ollama, llama.cpp, Open WebUI, ROCm (AMD GPU), Gemma 4, Qwen 3.5, DeepSeek-R1 |
+| SIEM / Monitoring | Wazuh, Grafana + Prometheus |
 | Network Security | Suricata (IDS/IPS), Zeek (traffic analysis), Wireshark, tcpdump |
 | Incident Response | TheHive (case management), Shuffle (SOAR), Cortex |
 | Endpoint | LimaCharlie (EDR), Atomic Red Team |
 | AppSec | Burp Suite, DVWA, WebGoat, OWASP ZAP |
+
+> Host (PVE2): Ryzen 5 5600 · 16GB RAM · RX 6600 XT (8GB VRAM) running local GPU inference via ROCm.
 
 ---
 
@@ -45,6 +52,7 @@ I'm currently completing the **TKH Innovation Fellowship 2026** (cybersecurity c
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -56,10 +64,10 @@ I'm currently completing the **TKH Innovation Fellowship 2026** (cybersecurity c
 
 ## 📜 Certifications
 
-- 🔐 **ISC² CC** — in progress
-- ☁️ **AWS SAA-C03** — in progress
-- 🪟 **AZ-104** — in progress
-- 🛡️ **CompTIA Security+** — planned (Q4 2026)
+- 🔐 **ISC² Certified in Cybersecurity (CC):** in progress
+- ☁️ **AWS Solutions Architect Associate (SAA-C03):** targeting Q4 2026
+- 🪟 **Microsoft Azure Administrator (AZ-104):** targeting Q4 2026
+- 🛡️ **CompTIA Security+:** planned for Q1 2027
 
 ---
 
